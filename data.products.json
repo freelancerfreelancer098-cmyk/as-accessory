@@ -1,2 +1,24 @@
 [
+  {
+    "id": 1777187755658,
+    "name": "test",
+    "category": "SUNGLASSES",
+    "subcategory": "TEST SUB CATEGORY",
+    "price": 10000,
+    "discountPrice": 1000,
+    "taxRate": 50,
+    "taxType": "custom",
+    "cod": 250,
+    "codType": "custom",
+    "delivery": 300,
+    "deliveryType": "custom",
+    "stock": 100,
+    "description": "testing product",
+    "image": "images/img_1777187745630_1.avif",
+    "images": [
+      "images/sec_1777187749529_0_2.avif",
+      "images/sec_1777187753415_1_3.avif"
+    ],
+    "video": null
+  }
 ]
