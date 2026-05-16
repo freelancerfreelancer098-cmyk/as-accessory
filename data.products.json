@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 1778905282986,
+    "name": "test",
+    "category": "SIGNATURE JEWELRY GIFTS",
+    "subcategory": null,
+    "price": 1000,
+    "discountPrice": 7000,
+    "taxRate": 0,
+    "taxType": "none",
+    "cod": 0,
+    "codType": "free",
+    "delivery": 0,
+    "deliveryType": "free",
+    "onlineSavings": 10,
+    "onlineSavingsType": "custom",
+    "stock": 100,
+    "description": "test",
+    "image": "images/img_1778905281466_circle_logo.png",
+    "imageLabel": "Main View",
+    "images": [],
+    "video": null
+  }
+]
