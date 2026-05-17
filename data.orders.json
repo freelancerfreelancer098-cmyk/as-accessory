@@ -1,2 +1,50 @@
 [
+  {
+    "id": 1779045107971,
+    "user": "saadmirzastudio@gmail.com",
+    "userName": "Senwell",
+    "items": [
+      {
+        "id": 1778905282986,
+        "name": "test",
+        "category": "SIGNATURE JEWELRY GIFTS",
+        "subcategory": null,
+        "price": 1000,
+        "discountPrice": 7000,
+        "taxRate": 0,
+        "taxType": "none",
+        "cod": 0,
+        "codType": "free",
+        "delivery": 0,
+        "deliveryType": "free",
+        "onlineSavings": 10,
+        "onlineSavingsType": "custom",
+        "stock": 100,
+        "description": "test",
+        "image": "images/img_1778905281466_circle_logo.png",
+        "imageLabel": "Main View",
+        "images": [],
+        "video": null,
+        "qty": 2
+      }
+    ],
+    "total": "Rs. 14,000",
+    "totalValue": 14000,
+    "subtotal": "Rs. 14,000",
+    "tax": "Rs. 0",
+    "codCharge": "Rs. 0",
+    "delivery": "Rs. 0",
+    "date": "2026-05-17T19:11:47.972Z",
+    "status": "PENDING",
+    "payment": "COD",
+    "proof": null,
+    "shipping": {
+      "name": "Senwell",
+      "address": "Lahore Road Prime valley",
+      "city": "Sargodha",
+      "zip": "04021",
+      "phone": "03086009321",
+      "whatsapp": "03086009321"
+    }
+  }
 ]
