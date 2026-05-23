@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "cat-sunglasses",
+    "name": "SUNGLASSES",
+    "subtitle": "STYLE ESSENTIALS",
+    "image": "1.avif",
+    "order": 1,
+    "subcategories": [],
+    "protected": true
+  },
+  {
+    "id": "cat-watches",
+    "name": "WATCHES",
+    "subtitle": "TIMELESS ELEGANCE",
+    "image": "2.avif",
+    "order": 2,
+    "subcategories": [],
+    "protected": true
+  },
+  {
+    "id": "cat-jewelry",
+    "name": "JEWELRY",
+    "subtitle": "FINE ACCESSORIES",
+    "image": "3.avif",
+    "order": 3,
+    "subcategories": [],
+    "protected": true
+  }
+]
