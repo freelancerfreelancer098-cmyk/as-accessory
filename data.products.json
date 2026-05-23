@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "id": 1779563607719,
+    "name": "Red Jewlery Gift Combo",
+    "category": "AS SIGNATURE QUEEN DEAL",
+    "subcategory": null,
+    "price": 1699,
+    "discountPrice": 1499,
+    "taxRate": 0,
+    "taxType": "none",
+    "cod": 0,
+    "codType": "free",
+    "delivery": 0,
+    "deliveryType": "free",
+    "onlineSavings": 10,
+    "onlineSavingsType": "custom",
+    "stock": 1,
+    "description": "AS Signature Queen Deal \nRed Matching Jewlery Gift Combo \nInclude\n\n1 Ring\n1 Tops\n1 Earning set\n1 Crown\n1 Braclet\n1 Fancy Bengals ",
+    "image": "images/img_1779563443684_1000058118.jpg",
+    "imageLabel": "Full Combo",
+    "images": [
+      {
+        "path": "images/sec_1779563449915_0_1000058127.jpg",
+        "label": "Crown"
+      },
+      {
+        "path": "images/sec_1779563456790_1_1000058129.jpg",
+        "label": "Earing Set"
+      },
+      {
+        "path": "images/sec_1779563460581_2_1000058130.jpg",
+        "label": "Fancy Bengals"
+      },
+      {
+        "path": "images/sec_1779563468432_3_1000058134.jpg",
+        "label": "Braclet"
+      },
+      {
+        "path": "images/sec_1779563478159_4_1000058136.jpg",
+        "label": "Ring"
+      },
+      {
+        "path": "images/sec_1779563485618_5_1000058137.jpg",
+        "label": "Tops"
+      }
+    ],
+    "video": "images/vid_1779563492953_1000061665.mp4"
+  }
+]
