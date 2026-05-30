@@ -15,9 +15,9 @@
     "onlineSavings": 10,
     "onlineSavingsType": "custom",
     "stock": 1,
-    "description": "AS Signature Queen Deal \nIn Deal \nFancy Bengals \nCrown\nEaring set\nTops\nRing\nBraclet ",
+    "description": "AS Signature Queen Deal \nSilver Jewelry Matching Combo\nIn Deal \n1 Fancy Bengals,\n1 Crown,\n1 Earing set,\n1 Tops,\n1 Ring,\n1 Braclet",
     "image": "images/img_1780116047956_1000058607.jpg",
-    "imageLabel": "Silver Jewelry Gift Combo",
+    "imageLabel": "Full Combo",
     "images": [
       {
         "path": "images/sec_1780116054447_0_1000058608.jpg",
@@ -38,6 +38,10 @@
       {
         "path": "images/sec_1780116083660_5_1000058613.jpg",
         "label": "Braclet"
+      },
+      {
+        "path": "images/sec_1780119841891_5_1000058611.jpg",
+        "label": "Tops"
       }
     ],
     "video": null
