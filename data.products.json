@@ -1,5 +1,48 @@
 [
   {
+    "id": 1780116090047,
+    "name": "Silver Jewelry Gift Combo ",
+    "category": "AS SIGNATURE QUEEN DEAL",
+    "subcategory": null,
+    "price": 1500,
+    "discountPrice": 1300,
+    "taxRate": 0,
+    "taxType": "none",
+    "cod": 0,
+    "codType": "free",
+    "delivery": 300,
+    "deliveryType": "custom",
+    "onlineSavings": 10,
+    "onlineSavingsType": "custom",
+    "stock": 1,
+    "description": "AS Signature Queen Deal \nIn Deal \nFancy Bengals \nCrown\nEaring set\nTops\nRing\nBraclet ",
+    "image": "images/img_1780116047956_1000058607.jpg",
+    "imageLabel": "Silver Jewelry Gift Combo",
+    "images": [
+      {
+        "path": "images/sec_1780116054447_0_1000058608.jpg",
+        "label": "Fancy Bengals"
+      },
+      {
+        "path": "images/sec_1780116063500_1_1000058609.jpg",
+        "label": "Crown"
+      },
+      {
+        "path": "images/sec_1780116071511_2_1000058610.jpg",
+        "label": "Earing Ser"
+      },
+      {
+        "path": "images/sec_1780116077510_4_1000058612.jpg",
+        "label": "Ring"
+      },
+      {
+        "path": "images/sec_1780116083660_5_1000058613.jpg",
+        "label": "Braclet"
+      }
+    ],
+    "video": null
+  },
+  {
     "id": 1779563607719,
     "name": "Red Jewlery Gift Combo",
     "category": "AS SIGNATURE QUEEN DEAL",
