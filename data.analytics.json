@@ -491,6 +491,17 @@
         }
       ],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1780412476492_g6t0y",
+      "ip": "117.134.193.211",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "userEmail": "freelancerfreelancer098@gmail.com",
+      "startTime": "2026-06-02T15:01:16.492Z",
+      "lastActive": "2026-06-02T15:01:16.492Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
