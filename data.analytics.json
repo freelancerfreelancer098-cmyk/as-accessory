@@ -214,6 +214,17 @@
       "clicks": 8,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1780395413825_gz7ao",
+      "ip": "165.99.45.189",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.8 Mobile/15E148 Safari/604.1",
+      "userEmail": "Guest",
+      "startTime": "2026-06-02T10:16:53.825Z",
+      "lastActive": "2026-06-02T10:16:53.825Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
