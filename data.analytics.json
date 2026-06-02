@@ -225,6 +225,17 @@
       "clicks": 5,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1780395746290_trkey",
+      "ip": "103.174.195.226",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-06-02T10:22:26.290Z",
+      "lastActive": "2026-06-02T10:22:26.290Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
