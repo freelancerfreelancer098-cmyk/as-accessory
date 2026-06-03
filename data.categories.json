@@ -1,27 +1,27 @@
 [
   {
     "id": "cat-sunglasses",
-    "name": "AS SIGNATURE QUEEN DEAL",
-    "subtitle": "Perfect Picks For Every Ocassion",
-    "image": "images/cat_1779559680176_1000059343.jpg",
+    "name": "SUNGLASSES",
+    "subtitle": "STYLE ESSENTIALS",
+    "image": "1.avif",
     "order": 1,
     "subcategories": [],
     "protected": true
   },
   {
     "id": "cat-watches",
-    "name": "MINI PRINCESS COMBO",
-    "subtitle": "Perfect Picks For Every Ocassion",
-    "image": "images/cat_1779561633190_1000059517.jpg",
+    "name": "WATCHES",
+    "subtitle": "TIMELESS ELEGANCE",
+    "image": "2.avif",
     "order": 2,
     "subcategories": [],
     "protected": true
   },
   {
     "id": "cat-jewelry",
-    "name": "AS SIGNATURE CUTE COMBO",
-    "subtitle": "Perfect Picks For Every Ocassion",
-    "image": "images/cat_1779561871489_1000059954.jpg",
+    "name": "JEWELRY",
+    "subtitle": "FINE ACCESSORIES",
+    "image": "3.avif",
     "order": 3,
     "subcategories": [],
     "protected": true
