@@ -1287,9 +1287,15 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
       "userEmail": "senwellbuisness@gmail.com",
       "startTime": "2026-06-04T00:47:25.273Z",
-      "lastActive": "2026-06-04T00:47:28.214Z",
+      "lastActive": "2026-06-04T00:47:46.347Z",
       "clicks": 0,
-      "openedProducts": [],
+      "openedProducts": [
+        {
+          "id": 1780211790315,
+          "views": 1,
+          "lastViewed": "2026-06-04T00:47:46.347Z"
+        }
+      ],
       "cart": [
         {
           "id": 1780127293667,
