@@ -1606,6 +1606,17 @@
           "qty": 1
         }
       ]
+    },
+    {
+      "sessionId": "sess_1780543558941_4yyea",
+      "ip": "173.252.82.17",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-06-04T03:25:58.941Z",
+      "lastActive": "2026-06-04T03:26:01.942Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
