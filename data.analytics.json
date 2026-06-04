@@ -1645,6 +1645,23 @@
         }
       ],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1780551224945_yot4p",
+      "ip": "117.134.193.211",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-06-04T05:33:44.945Z",
+      "lastActive": "2026-06-04T05:33:45.913Z",
+      "clicks": 0,
+      "openedProducts": [
+        {
+          "id": 1780211790315,
+          "views": 1,
+          "lastViewed": "2026-06-04T05:33:46.512Z"
+        }
+      ],
+      "cart": []
     }
   ]
 }
