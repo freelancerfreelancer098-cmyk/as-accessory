@@ -1038,6 +1038,17 @@
         }
       ],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1780531345909_72vwd",
+      "ip": "117.134.193.211",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-06-04T00:02:25.909Z",
+      "lastActive": "2026-06-04T00:02:28.650Z",
+      "clicks": 1,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
