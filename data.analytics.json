@@ -1932,6 +1932,17 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1780679483221_1gfbc",
+      "ip": "59.103.96.89",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23F77 Instagram 430.0.0.32.70 (iPhone16,2; iOS 26_5; en_GB; en-GB; scale=3.00; 1290x2796; IABMV/1; 972915403) NW/1 Safari/604.1",
+      "userEmail": "Guest",
+      "startTime": "2026-06-05T17:11:23.221Z",
+      "lastActive": "2026-06-05T17:11:26.322Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
