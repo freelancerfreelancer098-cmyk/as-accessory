@@ -1971,6 +1971,17 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1780733145111_j0te4",
+      "ip": "173.252.82.23",
+      "userAgent": "meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+      "userEmail": "Guest",
+      "startTime": "2026-06-06T08:05:45.111Z",
+      "lastActive": "2026-06-06T08:05:47.452Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
