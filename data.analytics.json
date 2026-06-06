@@ -2056,9 +2056,15 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",
       "userEmail": "Guest",
       "startTime": "2026-06-06T11:12:03.232Z",
-      "lastActive": "2026-06-06T11:12:43.233Z",
-      "clicks": 2,
-      "openedProducts": [],
+      "lastActive": "2026-06-06T11:12:57.857Z",
+      "clicks": 3,
+      "openedProducts": [
+        {
+          "id": 1780205927432,
+          "views": 1,
+          "lastViewed": "2026-06-06T11:12:57.854Z"
+        }
+      ],
       "cart": [
         {
           "id": 1780211790315,
