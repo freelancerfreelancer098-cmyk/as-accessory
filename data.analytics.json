@@ -2211,6 +2211,17 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1780792691151_e6bun",
+      "ip": "202.47.37.157",
+      "userAgent": "Mozilla/5.0 (Linux; Android 16; V2520 Build/BP2A.250605.031.A3_NN_V000L1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.83 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/564.0.0.48.74;IABMV/1;]",
+      "userEmail": "Guest",
+      "startTime": "2026-06-07T00:38:11.151Z",
+      "lastActive": "2026-06-07T00:38:13.318Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
