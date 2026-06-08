@@ -1,27 +1,27 @@
 [
   {
     "id": "cat-sunglasses",
-    "name": "AS SIGNATURE QUEEN DEAL",
+    "name": "SUNGLASSES",
     "subtitle": "STYLE ESSENTIALS",
-    "image": "images/cat_1780825326728_IMG_20260516_122408.jpg",
+    "image": "1.avif",
     "order": 1,
     "subcategories": [],
     "protected": true
   },
   {
     "id": "cat-watches",
-    "name": "PRINCESS BEAUTY GIFT SET",
-    "subtitle": "Beauty Deal",
-    "image": "images/cat_1780825080931_IMG-20260520-WA0083.jpg",
+    "name": "WATCHES",
+    "subtitle": "TIMELESS ELEGANCE",
+    "image": "2.avif",
     "order": 2,
     "subcategories": [],
     "protected": true
   },
   {
     "id": "cat-jewelry",
-    "name": "ROYAL HAIR CARE DEAL",
-    "subtitle": "Hair ACCESSORIES",
-    "image": "images/cat_1780824820681_IMG-20260520-WA0071.jpg",
+    "name": "JEWELRY",
+    "subtitle": "FINE ACCESSORIES",
+    "image": "3.avif",
     "order": 3,
     "subcategories": [],
     "protected": true
