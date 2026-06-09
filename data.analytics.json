@@ -2576,6 +2576,17 @@
           "qty": 1
         }
       ]
+    },
+    {
+      "sessionId": "sess_1780992652864_5tn17",
+      "ip": "173.252.82.14",
+      "userAgent": "meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+      "userEmail": "Guest",
+      "startTime": "2026-06-09T08:10:52.864Z",
+      "lastActive": "2026-06-09T08:10:53.879Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
