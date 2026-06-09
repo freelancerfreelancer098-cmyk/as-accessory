@@ -2715,6 +2715,67 @@
           "qty": 1
         }
       ]
+    },
+    {
+      "sessionId": "sess_1781018438312_l42u2",
+      "ip": "117.134.193.209",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userEmail": "freelancerfreelancer098@gmail.com",
+      "startTime": "2026-06-09T15:20:38.312Z",
+      "lastActive": "2026-06-09T15:20:41.599Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": [
+        {
+          "id": 1780211790315,
+          "name": "Golden Grace Combo",
+          "category": "MINI PRINCESS COMBO",
+          "subcategory": null,
+          "price": 999,
+          "discountPrice": 799,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 330,
+          "deliveryType": "custom",
+          "onlineSavings": 10,
+          "onlineSavingsType": "custom",
+          "stock": 1,
+          "description": "Golden Grace Combo By AS Signature \n\"Perfect Picks For Every Ocassion\"",
+          "image": "images/img_1780211736352_1000059508.jpg",
+          "imageLabel": "Full Combo",
+          "images": [
+            {
+              "path": "images/sec_1780211742705_0_1000059510.jpg",
+              "label": "Ring"
+            },
+            {
+              "path": "images/sec_1780211749230_1_1000059511.jpg",
+              "label": "Nails"
+            },
+            {
+              "path": "images/sec_1780211754348_2_1000059512.jpg",
+              "label": "Braclet"
+            },
+            {
+              "path": "images/sec_1780211762732_3_1000059513.jpg",
+              "label": "Stylish Catcher"
+            },
+            {
+              "path": "images/sec_1780211772506_4_1000059514.jpg",
+              "label": "Fancy Clip"
+            },
+            {
+              "path": "images/sec_1780211781281_5_1000059515.jpg",
+              "label": "Poni"
+            }
+          ],
+          "video": null,
+          "badge": "loved-by-many",
+          "qty": 1
+        }
+      ]
     }
   ]
 }
