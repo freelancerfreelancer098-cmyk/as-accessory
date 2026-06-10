@@ -3332,9 +3332,15 @@
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "userEmail": "freelancerfreelancer098@gmail.com",
       "startTime": "2026-06-10T00:59:03.465Z",
-      "lastActive": "2026-06-10T00:59:06.640Z",
+      "lastActive": "2026-06-10T00:59:10.575Z",
       "clicks": 1,
-      "openedProducts": [],
+      "openedProducts": [
+        {
+          "id": 1780211790315,
+          "views": 1,
+          "lastViewed": "2026-06-10T00:59:10.575Z"
+        }
+      ],
       "cart": [
         {
           "id": 1780211790315,
