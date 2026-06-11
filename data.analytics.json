@@ -4684,6 +4684,17 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1781167273905_kr975",
+      "ip": "57.141.2.5",
+      "userAgent": "meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+      "userEmail": "Guest",
+      "startTime": "2026-06-11T08:41:13.905Z",
+      "lastActive": "2026-06-11T08:41:16.224Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
