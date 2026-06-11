@@ -4750,6 +4750,17 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1781196753750_4esde",
+      "ip": "117.134.193.210",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userEmail": "freelancerfreelancer098@gmail.com",
+      "startTime": "2026-06-11T16:52:33.750Z",
+      "lastActive": "2026-06-11T16:52:36.758Z",
+      "clicks": 1,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
