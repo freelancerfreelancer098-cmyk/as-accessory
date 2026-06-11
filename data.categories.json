@@ -1,29 +1,11 @@
 [
   {
-    "id": "cat-sunglasses",
-    "name": "SUNGLASSES",
-    "subtitle": "STYLE ESSENTIALS",
-    "image": "1.avif",
+    "id": "cat-1781157107222",
+    "name": "AS SIGNATURE QUEEN DEAL",
+    "subtitle": "Matching Jewlery",
+    "image": "images/cat_1781157098800_IMG_20260516_122408.jpg",
     "order": 1,
     "subcategories": [],
-    "protected": true
-  },
-  {
-    "id": "cat-watches",
-    "name": "WATCHES",
-    "subtitle": "TIMELESS ELEGANCE",
-    "image": "2.avif",
-    "order": 2,
-    "subcategories": [],
-    "protected": true
-  },
-  {
-    "id": "cat-jewelry",
-    "name": "JEWELRY",
-    "subtitle": "FINE ACCESSORIES",
-    "image": "3.avif",
-    "order": 3,
-    "subcategories": [],
-    "protected": true
+    "protected": false
   }
 ]
