@@ -4618,6 +4618,17 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1781161732537_50mr0",
+      "ip": "223.123.87.195",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-A107F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.192 Mobile Safari/537.36 Channel/release AppName/ultralite app_version/42.5.4 Region/PK ByteLocale/en-US ByteFullLocale/en Spark/1.8.8.7-bugfix AppVersion/42.5.4 AppId/1340  PIA/2.8.8",
+      "userEmail": "Guest",
+      "startTime": "2026-06-11T07:08:52.537Z",
+      "lastActive": "2026-06-11T07:08:55.641Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
