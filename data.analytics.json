@@ -4673,6 +4673,17 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1781164806343_ky44i",
+      "ip": "Unknown",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.7.8 Mobile/15E148 Safari/604.1 musical_ly_45.4.0 JsSdk/2.0 NetType/WIFI Channel/App Store ByteLocale/en Region/PK isDarkMode/0 WKWebView/1 RevealType/Dialog performVal/1",
+      "userEmail": "Guest",
+      "startTime": "2026-06-11T08:00:06.343Z",
+      "lastActive": "2026-06-11T08:00:09.345Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
