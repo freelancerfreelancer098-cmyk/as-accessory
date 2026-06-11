@@ -4552,6 +4552,17 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1781160662270_tedx9",
+      "ip": "154.192.16.67",
+      "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-A075F Build/BP2A.250605.031.A3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7778.217 Mobile Safari/537.36 musical_ly_45.5.4",
+      "userEmail": "Guest",
+      "startTime": "2026-06-11T06:51:02.270Z",
+      "lastActive": "2026-06-11T06:51:04.799Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
