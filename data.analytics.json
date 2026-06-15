@@ -5235,6 +5235,17 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1781483825209_93zjy",
+      "ip": "117.134.193.208",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-06-15T00:37:05.209Z",
+      "lastActive": "2026-06-15T00:37:08.888Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
