@@ -5301,6 +5301,23 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1781501617669_bylje",
+      "ip": "Unknown",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userEmail": "freelancerfreelancer098@gmail.com",
+      "startTime": "2026-06-15T05:33:37.669Z",
+      "lastActive": "2026-06-15T08:01:22.376Z",
+      "clicks": 2,
+      "openedProducts": [
+        {
+          "id": 1780205927432,
+          "views": 1,
+          "lastViewed": "2026-06-15T08:01:22.376Z"
+        }
+      ],
+      "cart": []
     }
   ]
 }
