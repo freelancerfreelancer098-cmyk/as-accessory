@@ -5473,6 +5473,155 @@
           "qty": 1
         }
       ]
+    },
+    {
+      "sessionId": "sess_1781515954680_rux6s",
+      "ip": "223.123.125.11",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-06-15T09:32:34.680Z",
+      "lastActive": "2026-06-15T09:32:37.682Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": [
+        {
+          "id": 1780205658714,
+          "name": "Golden & Silver Black Gift Combo",
+          "category": "AS SIGNATURE QUEEN DEAL",
+          "subcategory": null,
+          "price": 1399,
+          "discountPrice": 1199,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 330,
+          "deliveryType": "custom",
+          "onlineSavings": 10,
+          "onlineSavingsType": "custom",
+          "stock": 1,
+          "description": "AS SIGNATURE QUEEN DEAL GOLDEN & SILVER GIFT COMBO MATCHING JEWELRY \n\n1 Earing Set,\n1 Ruby Braclet,\n1 Spring Ring,\n1 Bracket,\n1 Stylish Catcher",
+          "image": "images/img_1780205613335_1000059423.jpg",
+          "imageLabel": "Full Combo",
+          "images": [
+            {
+              "path": "images/sec_1780205618875_0_1000059405.jpg",
+              "label": "Earing Set"
+            },
+            {
+              "path": "images/sec_1780205625588_1_1000059407.jpg",
+              "label": "Ruby Braclet"
+            },
+            {
+              "path": "images/sec_1780205633804_2_1000059408.jpg",
+              "label": "Spring Ring"
+            },
+            {
+              "path": "images/sec_1780205641895_3_1000059409.jpg",
+              "label": "Braclet"
+            },
+            {
+              "path": "images/sec_1780205648466_4_1000060005.jpg",
+              "label": "Stylish Catcher"
+            }
+          ],
+          "video": null,
+          "badge": "easy-checkout",
+          "qty": 1
+        },
+        {
+          "id": 1780205202223,
+          "name": "Golden Black Gift Combo",
+          "category": "AS SIGNATURE QUEEN DEAL",
+          "subcategory": null,
+          "price": 1699,
+          "discountPrice": 1499,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 330,
+          "deliveryType": "custom",
+          "onlineSavings": 10,
+          "onlineSavingsType": "custom",
+          "stock": 1,
+          "description": "AS SIGNATURE QUEEN DEAL Golden Black Gift Combo Matching Jewlery \n1 Crown,\n1 Fancy Bengals,\n1 Ring,\n1 Tops,\n1 Earing Set,\n1 Braclet",
+          "image": "images/img_1780205152289_1000059359.jpg",
+          "imageLabel": "Full Combo",
+          "images": [
+            {
+              "path": "images/sec_1780205159584_0_1000059361.jpg",
+              "label": "Crown"
+            },
+            {
+              "path": "images/sec_1780205169258_1_1000059362.jpg",
+              "label": "Fancy Bengals"
+            },
+            {
+              "path": "images/sec_1780205182522_4_1000059365.jpg",
+              "label": "Tops"
+            },
+            {
+              "path": "images/sec_1780205192425_5_1000059372.jpg",
+              "label": "Braclet"
+            },
+            {
+              "path": "images/sec_1780207521119_4_1000059363.jpg",
+              "label": "Earing Set"
+            },
+            {
+              "path": "images/sec_1780207527254_5_1000059364.jpg",
+              "label": "Ring"
+            }
+          ],
+          "video": null,
+          "qty": 1
+        },
+        {
+          "id": 1780204775291,
+          "name": "Golden Red Gift Combo",
+          "category": "AS SIGNATURE QUEEN DEAL",
+          "subcategory": null,
+          "price": 1399,
+          "discountPrice": 1199,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 330,
+          "deliveryType": "custom",
+          "onlineSavings": 10,
+          "onlineSavingsType": "custom",
+          "stock": 1,
+          "description": "AS SIGNATURE QUEEN DEAL Golden Red Matching Jewlery Combo \n\n1 Earing Set,\n1 Ruby Braclet,\n1 Stylish Catcher,\n1 Ring,\n1 Braclet",
+          "image": "images/img_1780204735155_1000059343.jpg",
+          "imageLabel": "Full Combo",
+          "images": [
+            {
+              "path": "images/sec_1780204741185_0_1000059346.jpg",
+              "label": "Earing Set"
+            },
+            {
+              "path": "images/sec_1780204747358_1_1000059348.jpg",
+              "label": "Ruby Braclet"
+            },
+            {
+              "path": "images/sec_1780204755560_2_1000059349.jpg",
+              "label": "Stylish Catcher"
+            },
+            {
+              "path": "images/sec_1780204763074_3_1000059350.jpg",
+              "label": "Ring"
+            },
+            {
+              "path": "images/sec_1780204769812_4_1000059351.jpg",
+              "label": "Braclet"
+            }
+          ],
+          "video": null,
+          "qty": 1
+        }
+      ]
     }
   ]
 }
