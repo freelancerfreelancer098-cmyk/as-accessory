@@ -6033,6 +6033,22 @@
         }
       ],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1781571078825_qfx9s",
+      "ip": "117.134.193.210",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userEmail": "test@example.com",
+      "startTime": "2026-06-16T00:51:18.825Z",
+      "lastActive": "2026-06-16T00:54:03.560Z",
+      "clicks": 3,
+      "openedProducts": [],
+      "cart": [
+        {
+          "id": "1",
+          "qty": 2
+        }
+      ]
     }
   ]
 }
