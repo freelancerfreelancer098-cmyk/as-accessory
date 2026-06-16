@@ -5977,6 +5977,23 @@
       "clicks": 2,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1781570093068_bwqle",
+      "ip": "117.134.193.210",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-06-16T00:34:53.068Z",
+      "lastActive": "2026-06-16T00:34:54.111Z",
+      "clicks": 3,
+      "openedProducts": [
+        {
+          "id": 1781567507534,
+          "views": 3,
+          "lastViewed": "2026-06-16T00:34:54.110Z"
+        }
+      ],
+      "cart": []
     }
   ]
 }
