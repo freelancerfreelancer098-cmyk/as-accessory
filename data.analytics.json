@@ -6082,6 +6082,17 @@
       "clicks": 2,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1781571891440_zrtlf",
+      "ip": "117.134.193.210",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userEmail": "freelancerfreelancer098@gmail.com",
+      "startTime": "2026-06-16T01:04:51.440Z",
+      "lastActive": "2026-06-16T01:04:52.808Z",
+      "clicks": 1,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
