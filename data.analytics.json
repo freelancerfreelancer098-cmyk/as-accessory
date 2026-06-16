@@ -5910,6 +5910,17 @@
         }
       ],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1781568561250_39e9f",
+      "ip": "57.141.2.63",
+      "userAgent": "meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+      "userEmail": "Guest",
+      "startTime": "2026-06-16T00:09:21.250Z",
+      "lastActive": "2026-06-16T00:09:24.258Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
