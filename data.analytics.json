@@ -6122,9 +6122,15 @@
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "userEmail": "Guest",
       "startTime": "2026-06-16T01:17:38.406Z",
-      "lastActive": "2026-06-16T01:17:41.409Z",
-      "clicks": 0,
-      "openedProducts": [],
+      "lastActive": "2026-06-16T01:17:56.964Z",
+      "clicks": 3,
+      "openedProducts": [
+        {
+          "id": 1781567507534,
+          "views": 1,
+          "lastViewed": "2026-06-16T01:17:56.932Z"
+        }
+      ],
       "cart": []
     }
   ]
