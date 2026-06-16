@@ -5984,13 +5984,18 @@
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "userEmail": "Guest",
       "startTime": "2026-06-16T00:34:53.068Z",
-      "lastActive": "2026-06-16T00:34:56.561Z",
-      "clicks": 3,
+      "lastActive": "2026-06-16T00:35:00.727Z",
+      "clicks": 5,
       "openedProducts": [
         {
           "id": 1781567507534,
           "views": 9,
           "lastViewed": "2026-06-16T00:34:57.086Z"
+        },
+        {
+          "id": 1780205927432,
+          "views": 2,
+          "lastViewed": "2026-06-16T00:35:00.726Z"
         }
       ],
       "cart": []
