@@ -7345,6 +7345,42 @@
           "qty": 1
         }
       ]
+    },
+    {
+      "sessionId": "sess_1781699334852_gkflo",
+      "ip": "117.134.193.210",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "userEmail": "freelancerfreelancer098@gmail.com",
+      "startTime": "2026-06-17T12:28:54.852Z",
+      "lastActive": "2026-06-17T12:28:55.603Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": [
+        {
+          "id": 1781567507534,
+          "name": "test",
+          "category": "AS SIGNATURE QUEEN DEAL",
+          "subcategory": null,
+          "price": 1000,
+          "discountPrice": null,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 0,
+          "deliveryType": "free",
+          "onlineSavings": 0,
+          "onlineSavingsType": "none",
+          "stock": 100,
+          "description": "test",
+          "image": "images/img_1781567504365_AS-Signature-Slip-1781175965963_(27).png.webp",
+          "imageLabel": "test",
+          "images": [],
+          "video": null,
+          "badge": null,
+          "qty": 1
+        }
+      ]
     }
   ]
 }
