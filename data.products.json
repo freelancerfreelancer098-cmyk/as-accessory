@@ -321,49 +321,6 @@
     "video": null
   },
   {
-    "id": 1780120537217,
-    "name": "Silver Golden Gift Combo ",
-    "category": "AS SIGNATURE QUEEN DEAL",
-    "subcategory": null,
-    "price": 1499,
-    "discountPrice": 1299,
-    "taxRate": 0,
-    "taxType": "none",
-    "cod": 0,
-    "codType": "free",
-    "delivery": 330,
-    "deliveryType": "custom",
-    "onlineSavings": 10,
-    "onlineSavingsType": "custom",
-    "stock": 1,
-    "description": "Silver Gift Combo \nIn Deal \n1 Earing set,\n1 Fancy Bengals Set,\n1 Braclet,\n1 Tops,\n1 Ring",
-    "image": "images/img_1780120659035_1000058648.jpg",
-    "imageLabel": "Full Combo",
-    "images": [
-      {
-        "path": "images/sec_1780120518220_1_1000058651.jpg",
-        "label": "Braclet"
-      },
-      {
-        "path": "images/sec_1780120525092_2_1000058652.jpg",
-        "label": "Tops"
-      },
-      {
-        "path": "images/sec_1780120532087_3_1000058653.jpg",
-        "label": "Ring"
-      },
-      {
-        "path": "images/sec_1780120664897_3_1000061034.jpg",
-        "label": "Earing Set"
-      },
-      {
-        "path": "images/sec_1780120668347_4_1000058654.jpg",
-        "label": "Fancy Bengals"
-      }
-    ],
-    "video": null
-  },
-  {
     "id": 1780116090047,
     "name": "Silver Gift Combo ",
     "category": "AS SIGNATURE QUEEN DEAL",
