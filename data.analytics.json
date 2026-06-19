@@ -9309,6 +9309,66 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1781842154724_j4aoz",
+      "ip": "223.123.77.9",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-06-19T04:09:14.724Z",
+      "lastActive": "2026-06-19T04:09:18.408Z",
+      "clicks": 1,
+      "openedProducts": [],
+      "cart": [
+        {
+          "id": 1780205202223,
+          "name": "Golden Black Gift Combo",
+          "category": "AS SIGNATURE QUEEN DEAL",
+          "subcategory": null,
+          "price": 1699,
+          "discountPrice": 1499,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 330,
+          "deliveryType": "custom",
+          "onlineSavings": 10,
+          "onlineSavingsType": "custom",
+          "stock": 1,
+          "description": "AS SIGNATURE QUEEN DEAL Golden Black Gift Combo Matching Jewlery \n1 Crown,\n1 Fancy Bengals,\n1 Ring,\n1 Tops,\n1 Earing Set,\n1 Braclet",
+          "image": "images/img_1780205152289_1000059359.jpg",
+          "imageLabel": "Full Combo",
+          "images": [
+            {
+              "path": "images/sec_1780205159584_0_1000059361.jpg",
+              "label": "Crown"
+            },
+            {
+              "path": "images/sec_1780205169258_1_1000059362.jpg",
+              "label": "Fancy Bengals"
+            },
+            {
+              "path": "images/sec_1780205182522_4_1000059365.jpg",
+              "label": "Tops"
+            },
+            {
+              "path": "images/sec_1780205192425_5_1000059372.jpg",
+              "label": "Braclet"
+            },
+            {
+              "path": "images/sec_1780207521119_4_1000059363.jpg",
+              "label": "Earing Set"
+            },
+            {
+              "path": "images/sec_1780207527254_5_1000059364.jpg",
+              "label": "Ring"
+            }
+          ],
+          "video": null,
+          "qty": 1
+        }
+      ]
     }
   ]
 }
