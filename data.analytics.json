@@ -9369,6 +9369,17 @@
           "qty": 1
         }
       ]
+    },
+    {
+      "sessionId": "sess_1781892602485_yho26",
+      "ip": "74.125.210.172",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 (compatible; Google-Read-Aloud; +https://support.google.com/webmasters/answer/1061943)",
+      "userEmail": "Guest",
+      "startTime": "2026-06-19T18:10:02.486Z",
+      "lastActive": "2026-06-19T18:10:05.485Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
