@@ -278,49 +278,6 @@
     "video": null
   },
   {
-    "id": 1780127293667,
-    "name": "Pink Gift Combo",
-    "category": "AS SIGNATURE QUEEN DEAL",
-    "subcategory": null,
-    "price": 1399,
-    "discountPrice": 1199,
-    "taxRate": 0,
-    "taxType": "none",
-    "cod": 0,
-    "codType": "free",
-    "delivery": 330,
-    "deliveryType": "custom",
-    "onlineSavings": 10,
-    "onlineSavingsType": "custom",
-    "stock": 1,
-    "description": "AS Signature Queen Deal \nIn Deal \n1 Earing Set,\n1 Ring,\n1 Necklace,\n1 Braclet,\n1 Stylish Catcher",
-    "image": "images/img_1780127242642_1000058676.jpg",
-    "imageLabel": "Full Combo",
-    "images": [
-      {
-        "path": "images/sec_1780127249043_0_1000058716.jpg",
-        "label": "Earing Set"
-      },
-      {
-        "path": "images/sec_1780127256057_1_1000058718.jpg",
-        "label": "Ring"
-      },
-      {
-        "path": "images/sec_1780127263317_2_1000058742.jpg",
-        "label": "Braclet"
-      },
-      {
-        "path": "images/sec_1780127273943_3_1000058743.jpg",
-        "label": "Stylish Catcher"
-      },
-      {
-        "path": "images/sec_1780127283080_4_1000058745.jpg",
-        "label": "Necklace"
-      }
-    ],
-    "video": null
-  },
-  {
     "id": 1780116090047,
     "name": "Silver Gift Combo ",
     "category": "AS SIGNATURE QUEEN DEAL",
