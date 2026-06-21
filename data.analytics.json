@@ -9744,6 +9744,59 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1782058114626_0enq0",
+      "ip": "223.123.77.9",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-06-21T16:08:34.626Z",
+      "lastActive": "2026-06-21T16:08:37.627Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": [
+        {
+          "id": 1780205927432,
+          "name": "Golden Black Gift Combo",
+          "category": "AS SIGNATURE QUEEN DEAL",
+          "subcategory": null,
+          "price": 1399,
+          "discountPrice": 1199,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 330,
+          "deliveryType": "custom",
+          "onlineSavings": 10,
+          "onlineSavingsType": "custom",
+          "stock": 1,
+          "description": "AS Signature Queen Deal Golden Black Gift Combo Matching Jewlery \n1 Ring,\n1 Ruby Braclet,\n1 Tops,\n1 Necklace",
+          "image": "images/img_1780205883453_1000059456.jpg",
+          "imageLabel": "Full Combo",
+          "images": [
+            {
+              "path": "images/sec_1780205890890_0_1000059467.jpg",
+              "label": "Ring"
+            },
+            {
+              "path": "images/sec_1780205898084_1_1000059468.jpg",
+              "label": "Ruby Braclet"
+            },
+            {
+              "path": "images/sec_1780205906735_2_1000059469.jpg",
+              "label": "Tops"
+            },
+            {
+              "path": "images/sec_1780205915181_3_1000059471.jpg",
+              "label": "Necklace"
+            }
+          ],
+          "video": null,
+          "badge": "best-price",
+          "qty": 1
+        }
+      ]
     }
   ]
 }
