@@ -9733,6 +9733,17 @@
           "qty": 1
         }
       ]
+    },
+    {
+      "sessionId": "sess_1782030125151_nqlqa",
+      "ip": "57.141.2.29",
+      "userAgent": "meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+      "userEmail": "Guest",
+      "startTime": "2026-06-21T08:22:05.152Z",
+      "lastActive": "2026-06-21T08:22:08.152Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
