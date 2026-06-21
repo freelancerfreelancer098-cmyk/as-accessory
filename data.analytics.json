@@ -9671,6 +9671,68 @@
           "qty": 1
         }
       ]
+    },
+    {
+      "sessionId": "sess_1782025086372_qntt5",
+      "ip": "223.123.77.9",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-06-21T06:58:06.373Z",
+      "lastActive": "2026-06-21T06:58:12.814Z",
+      "clicks": 3,
+      "openedProducts": [
+        {
+          "id": 1780205927432,
+          "views": 1,
+          "lastViewed": "2026-06-21T06:58:07.451Z"
+        }
+      ],
+      "cart": [
+        {
+          "id": 1780204775291,
+          "name": "Golden Red Gift Combo",
+          "category": "AS SIGNATURE QUEEN DEAL",
+          "subcategory": null,
+          "price": 1399,
+          "discountPrice": 1199,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 330,
+          "deliveryType": "custom",
+          "onlineSavings": 10,
+          "onlineSavingsType": "custom",
+          "stock": 1,
+          "description": "AS SIGNATURE QUEEN DEAL Golden Red Matching Jewlery Combo \n\n1 Earing Set,\n1 Ruby Braclet,\n1 Stylish Catcher,\n1 Ring,\n1 Braclet",
+          "image": "images/img_1780204735155_1000059343.jpg",
+          "imageLabel": "Full Combo",
+          "images": [
+            {
+              "path": "images/sec_1780204741185_0_1000059346.jpg",
+              "label": "Earing Set"
+            },
+            {
+              "path": "images/sec_1780204747358_1_1000059348.jpg",
+              "label": "Ruby Braclet"
+            },
+            {
+              "path": "images/sec_1780204755560_2_1000059349.jpg",
+              "label": "Stylish Catcher"
+            },
+            {
+              "path": "images/sec_1780204763074_3_1000059350.jpg",
+              "label": "Ring"
+            },
+            {
+              "path": "images/sec_1780204769812_4_1000059351.jpg",
+              "label": "Braclet"
+            }
+          ],
+          "video": null,
+          "qty": 1
+        }
+      ]
     }
   ]
 }
