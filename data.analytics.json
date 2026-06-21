@@ -9493,23 +9493,28 @@
       "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",
       "userEmail": "Guest",
       "startTime": "2026-06-21T06:54:49.608Z",
-      "lastActive": "2026-06-21T06:54:53.792Z",
-      "clicks": 1,
+      "lastActive": "2026-06-21T06:55:18.012Z",
+      "clicks": 9,
       "openedProducts": [
         {
           "id": 1780205927432,
           "views": 1,
           "lastViewed": "2026-06-21T06:54:50.947Z"
+        },
+        {
+          "id": 1780204775291,
+          "views": 1,
+          "lastViewed": "2026-06-21T06:54:58.628Z"
         }
       ],
       "cart": [
         {
-          "id": 1780211790315,
-          "name": "Golden Grace Combo",
-          "category": "MINI PRINCESS COMBO",
+          "id": 1780204775291,
+          "name": "Golden Red Gift Combo",
+          "category": "AS SIGNATURE QUEEN DEAL",
           "subcategory": null,
-          "price": 999,
-          "discountPrice": 799,
+          "price": 1399,
+          "discountPrice": 1199,
           "taxRate": 0,
           "taxType": "none",
           "cod": 0,
@@ -9519,37 +9524,32 @@
           "onlineSavings": 10,
           "onlineSavingsType": "custom",
           "stock": 1,
-          "description": "Golden Grace Combo By AS Signature \n\"Perfect Picks For Every Ocassion\"",
-          "image": "images/img_1780211736352_1000059508.jpg",
+          "description": "AS SIGNATURE QUEEN DEAL Golden Red Matching Jewlery Combo \n\n1 Earing Set,\n1 Ruby Braclet,\n1 Stylish Catcher,\n1 Ring,\n1 Braclet",
+          "image": "images/img_1780204735155_1000059343.jpg",
           "imageLabel": "Full Combo",
           "images": [
             {
-              "path": "images/sec_1780211742705_0_1000059510.jpg",
-              "label": "Ring"
+              "path": "images/sec_1780204741185_0_1000059346.jpg",
+              "label": "Earing Set"
             },
             {
-              "path": "images/sec_1780211749230_1_1000059511.jpg",
-              "label": "Nails"
+              "path": "images/sec_1780204747358_1_1000059348.jpg",
+              "label": "Ruby Braclet"
             },
             {
-              "path": "images/sec_1780211754348_2_1000059512.jpg",
-              "label": "Braclet"
-            },
-            {
-              "path": "images/sec_1780211762732_3_1000059513.jpg",
+              "path": "images/sec_1780204755560_2_1000059349.jpg",
               "label": "Stylish Catcher"
             },
             {
-              "path": "images/sec_1780211772506_4_1000059514.jpg",
-              "label": "Fancy Clip"
+              "path": "images/sec_1780204763074_3_1000059350.jpg",
+              "label": "Ring"
             },
             {
-              "path": "images/sec_1780211781281_5_1000059515.jpg",
-              "label": "Poni"
+              "path": "images/sec_1780204769812_4_1000059351.jpg",
+              "label": "Braclet"
             }
           ],
           "video": null,
-          "badge": "loved-by-many",
           "qty": 1
         }
       ]
