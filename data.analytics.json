@@ -9380,6 +9380,112 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1782023588083_tksyx",
+      "ip": "223.123.77.9",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-06-21T06:33:08.084Z",
+      "lastActive": "2026-06-21T06:33:18.077Z",
+      "clicks": 4,
+      "openedProducts": [],
+      "cart": [
+        {
+          "id": 1780211790315,
+          "name": "Golden Grace Combo",
+          "category": "MINI PRINCESS COMBO",
+          "subcategory": null,
+          "price": 999,
+          "discountPrice": 799,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 330,
+          "deliveryType": "custom",
+          "onlineSavings": 10,
+          "onlineSavingsType": "custom",
+          "stock": 1,
+          "description": "Golden Grace Combo By AS Signature \n\"Perfect Picks For Every Ocassion\"",
+          "image": "images/img_1780211736352_1000059508.jpg",
+          "imageLabel": "Full Combo",
+          "images": [
+            {
+              "path": "images/sec_1780211742705_0_1000059510.jpg",
+              "label": "Ring"
+            },
+            {
+              "path": "images/sec_1780211749230_1_1000059511.jpg",
+              "label": "Nails"
+            },
+            {
+              "path": "images/sec_1780211754348_2_1000059512.jpg",
+              "label": "Braclet"
+            },
+            {
+              "path": "images/sec_1780211762732_3_1000059513.jpg",
+              "label": "Stylish Catcher"
+            },
+            {
+              "path": "images/sec_1780211772506_4_1000059514.jpg",
+              "label": "Fancy Clip"
+            },
+            {
+              "path": "images/sec_1780211781281_5_1000059515.jpg",
+              "label": "Poni"
+            }
+          ],
+          "video": null,
+          "badge": "loved-by-many",
+          "qty": 1
+        },
+        {
+          "id": 1780205658714,
+          "name": "Golden & Silver Black Gift Combo",
+          "category": "AS SIGNATURE QUEEN DEAL",
+          "subcategory": null,
+          "price": 1399,
+          "discountPrice": 1199,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 330,
+          "deliveryType": "custom",
+          "onlineSavings": 10,
+          "onlineSavingsType": "custom",
+          "stock": 1,
+          "description": "AS SIGNATURE QUEEN DEAL GOLDEN & SILVER GIFT COMBO MATCHING JEWELRY \n\n1 Earing Set,\n1 Ruby Braclet,\n1 Spring Ring,\n1 Bracket,\n1 Stylish Catcher",
+          "image": "images/img_1780205613335_1000059423.jpg",
+          "imageLabel": "Full Combo",
+          "images": [
+            {
+              "path": "images/sec_1780205618875_0_1000059405.jpg",
+              "label": "Earing Set"
+            },
+            {
+              "path": "images/sec_1780205625588_1_1000059407.jpg",
+              "label": "Ruby Braclet"
+            },
+            {
+              "path": "images/sec_1780205633804_2_1000059408.jpg",
+              "label": "Spring Ring"
+            },
+            {
+              "path": "images/sec_1780205641895_3_1000059409.jpg",
+              "label": "Braclet"
+            },
+            {
+              "path": "images/sec_1780205648466_4_1000060005.jpg",
+              "label": "Stylish Catcher"
+            }
+          ],
+          "video": null,
+          "badge": "easy-checkout",
+          "qty": 1
+        }
+      ]
     }
   ]
 }
