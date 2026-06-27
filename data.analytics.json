@@ -9863,6 +9863,17 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1782567967382_4jmu1",
+      "ip": "57.141.2.63",
+      "userAgent": "meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+      "userEmail": "Guest",
+      "startTime": "2026-06-27T13:46:07.382Z",
+      "lastActive": "2026-06-27T13:46:10.383Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
