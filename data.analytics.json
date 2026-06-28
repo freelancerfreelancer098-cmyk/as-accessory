@@ -9874,6 +9874,62 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1782647366268_p6rv8",
+      "ip": "223.123.38.35",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-06-28T11:49:26.268Z",
+      "lastActive": "2026-06-28T11:49:29.283Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": [
+        {
+          "id": 1780204775291,
+          "name": "Golden Red Gift Combo",
+          "category": "AS SIGNATURE QUEEN DEAL",
+          "subcategory": null,
+          "price": 1399,
+          "discountPrice": 1199,
+          "taxRate": 0,
+          "taxType": "none",
+          "cod": 0,
+          "codType": "free",
+          "delivery": 330,
+          "deliveryType": "custom",
+          "onlineSavings": 10,
+          "onlineSavingsType": "custom",
+          "stock": 1,
+          "description": "AS SIGNATURE QUEEN DEAL Golden Red Matching Jewlery Combo \n\n1 Earing Set,\n1 Ruby Braclet,\n1 Stylish Catcher,\n1 Ring,\n1 Braclet",
+          "image": "images/img_1780204735155_1000059343.jpg",
+          "imageLabel": "Full Combo",
+          "images": [
+            {
+              "path": "images/sec_1780204741185_0_1000059346.jpg",
+              "label": "Earing Set"
+            },
+            {
+              "path": "images/sec_1780204747358_1_1000059348.jpg",
+              "label": "Ruby Braclet"
+            },
+            {
+              "path": "images/sec_1780204755560_2_1000059349.jpg",
+              "label": "Stylish Catcher"
+            },
+            {
+              "path": "images/sec_1780204763074_3_1000059350.jpg",
+              "label": "Ring"
+            },
+            {
+              "path": "images/sec_1780204769812_4_1000059351.jpg",
+              "label": "Braclet"
+            }
+          ],
+          "video": null,
+          "qty": 1
+        }
+      ]
     }
   ]
 }
