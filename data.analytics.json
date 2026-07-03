@@ -9991,6 +9991,17 @@
           "qty": 1
         }
       ]
+    },
+    {
+      "sessionId": "sess_1783085659432_zilxg",
+      "ip": "57.141.0.61",
+      "userAgent": "meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+      "userEmail": "Guest",
+      "startTime": "2026-07-03T13:34:19.432Z",
+      "lastActive": "2026-07-03T13:34:21.420Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
