@@ -10013,6 +10013,17 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1783759928957_58eh6",
+      "ip": "57.141.0.17",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 (compatible; meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler))",
+      "userEmail": "Guest",
+      "startTime": "2026-07-11T08:52:08.957Z",
+      "lastActive": "2026-07-11T08:52:11.359Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
