@@ -10068,6 +10068,17 @@
       "clicks": 0,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1787129770214_akazk",
+      "ip": "223.123.66.147",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "userEmail": "Guest",
+      "startTime": "2026-08-19T08:56:10.214Z",
+      "lastActive": "2026-08-19T08:56:13.224Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
