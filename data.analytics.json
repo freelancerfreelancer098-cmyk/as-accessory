@@ -10090,6 +10090,17 @@
       "clicks": 1,
       "openedProducts": [],
       "cart": []
+    },
+    {
+      "sessionId": "sess_1788533122930_9a6x5",
+      "ip": "173.252.82.90",
+      "userAgent": "meta-externalads/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)",
+      "userEmail": "Guest",
+      "startTime": "2026-09-04T14:45:22.930Z",
+      "lastActive": "2026-09-04T14:45:25.930Z",
+      "clicks": 0,
+      "openedProducts": [],
+      "cart": []
     }
   ]
 }
